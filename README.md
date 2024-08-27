@@ -32,17 +32,12 @@ https://github.com/user-attachments/assets/afd7c8e8-8e72-49be-a285-06c462f86092
 
 **Meditation App Animation For Smart Watches**
 
-https://github.com/user-attachments/assets/2068cbaf-c7e0-4f88-ac2b-895419ecd666
+https://github.com/user-attachments/assets/fed12bea-62a0-494e-a37c-277376a50d37
 
 **Smoody Gamification Page Animations**
 
 https://github.com/user-attachments/assets/02aeaa1e-965f-48eb-a85e-321c7c90dbcb
 
+**Basic Mobile App Stepper Animation Example**
 
-
-
-
-
-https://github.com/user-attachments/assets/fed12bea-62a0-494e-a37c-277376a50d37
-
-
+https://github.com/user-attachments/assets/2068cbaf-c7e0-4f88-ac2b-895419ecd666
